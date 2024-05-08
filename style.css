@@ -11,7 +11,6 @@
   position: absolute;
   width: 1760px;
   height: 1000px;
-  border: solid pink;
   top: 6000px;
   left: 0;
   background-image: url(./img/image-1.png);
@@ -719,7 +718,6 @@
   height: 1000px;
   top: 0;
   left: 0;
-  border:solid red;
 }
 
 .cao .rectangle-2 {
@@ -1479,4 +1477,314 @@
   height: 84px;
   top: 7110px;
   left: 174px;
+}
+
+
+
+.burger-menu-trigger {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 16px;
+  position: fixed;
+  background-color: #fff;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #000;
+  z-index: 2;
+  top:15px;
+  right: 30px;
+   cursor: pointer;
+}
+
+.burger-menu-trigger .menu {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  background-image: url(./img/menu-2-2.svg);
+  background-size: 100% 100%;
+}
+
+
+
+.slider-wrapper{
+  width: 100%;
+  height: 300px;
+  background: red;
+  position: absolute;
+}
+
+
+.hs-section-logo{
+  background: #fff;
+  padding: 25px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hs-section{
+  width: 1760px;
+  margin: 0 auto;
+}
+
+element {
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .div {
+  width: 1760px;
+  height: 1080px;
+  position: relative;
+
+}
+
+.element .overlap-group {
+  position: absolute;
+  width: 813px;
+  height: 1080px;
+  top: 0;
+  left: 0px;
+}
+
+.element .rectangle {
+  position: absolute;
+  width: 677px;
+  height: 1080px;
+  top: 0;
+  left: 136px;
+}
+
+.element .korzy {
+  top: 480px;
+  left: 0;
+  display: flex;
+  width: 382px;
+  height: 160px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 80px 32px 32px;
+  position: absolute;
+  border-radius: 25px;
+}
+
+.element .body-text {
+  position: relative;
+  flex: 1;
+  font-family: var(--h5-500-font-family);
+  font-weight: var(--h5-500-font-weight);
+  color: var(--gray-900);
+  font-size: var(--h5-500-font-size);
+  letter-spacing: var(--h5-500-letter-spacing);
+  line-height: var(--h5-500-line-height);
+  font-style: var(--h5-500-font-style);
+}
+
+.element .frame {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 24px;
+  position: absolute;
+  top: -80px;
+  left: 0;
+  background-color: var(--gray-100);
+  border-radius: 25px;
+  box-shadow: var(--02);
+}
+
+.element .img {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.element .korzy-2 {
+  top: 840px;
+  left: 0;
+  display: flex;
+  width: 382px;
+  height: 160px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 80px 32px 32px;
+  position: absolute;
+  background-color: var(--gray-300);
+  border-radius: 25px;
+}
+
+.element .text-wrapper {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: var(--h5-500-font-family);
+  font-weight: var(--h5-500-font-weight);
+  color: var(--gray-900);
+  font-size: var(--h5-500-font-size);
+  letter-spacing: var(--h5-500-letter-spacing);
+  line-height: var(--h5-500-line-height);
+  font-style: var(--h5-500-font-style);
+}
+
+.element .img-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 24px;
+  position: absolute;
+  top: -80px;
+  left: 0;
+  background-color: var(--beige-500);
+  border-radius: 25px;
+  box-shadow: var(--03);
+}
+
+.element .side-paggination {
+  display: flex;
+  flex-direction: column;
+  width: 160px;
+  height: 1080px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--gray-100);
+}
+
+.element .logo {
+  position: relative;
+  width: 48px;
+  height: 64px;
+}
+
+.element .XX-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 80px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 24px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--gray-1100);
+  border-radius: 20px;
+}
+
+.element .XX {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--h4-500-font-family);
+  font-weight: var(--h4-500-font-weight);
+  color: var(--gray-100);
+  font-size: var(--h4-500-font-size);
+  letter-spacing: var(--h4-500-letter-spacing);
+  line-height: var(--h4-500-line-height);
+  white-space: nowrap;
+  font-style: var(--h4-500-font-style);
+}
+
+.element .page-title {
+  display: flex;
+  flex-direction: column;
+  width: 518px;
+  align-items: flex-start;
+  gap: 12px;
+  position: absolute;
+  top: 80px;
+  left: 295px;
+}
+
+.element .h {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--h2-300-font-family);
+  font-weight: var(--h2-300-font-weight);
+  color: var(--gray-1100);
+  font-size: var(--h2-300-font-size);
+  letter-spacing: var(--h2-300-letter-spacing);
+  line-height: var(--h2-300-line-height);
+  font-style: var(--h2-300-font-style);
+}
+
+.element .h-2 {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--h1-500-font-family);
+  font-weight: var(--h1-500-font-weight);
+  color: var(--dark-green700);
+  font-size: var(--h1-500-font-size);
+  letter-spacing: var(--h1-500-letter-spacing);
+  line-height: var(--h1-500-line-height);
+  font-style: var(--h1-500-font-style);
+}
+
+.element .korzy-3 {
+  top: 480px;
+  left: 295px;
+  display: flex;
+  width: 382px;
+  height: 160px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 80px 32px 32px;
+  position: absolute;
+  background-color: var(--gray-300);
+  border-radius: 25px;
+}
+
+.element .korzy-4 {
+  top: 840px;
+  left: 295px;
+  display: flex;
+  width: 382px;
+  height: 160px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 80px 32px 32px;
+  position: absolute;
+  background-color: var(--gray-300);
+  border-radius: 25px;
+}
+
+.element .korzy-5 {
+  top: 480px;
+  left: 701px;
+  display: flex;
+  width: 382px;
+  height: 160px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 80px 32px 32px;
+  position: absolute;
+  background-color: var(--gray-300);
+  border-radius: 25px;
+}
+
+.element .korzy-6 {
+  top: 840px;
+  left: 701px;
+  display: flex;
+  width: 382px;
+  height: 160px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 80px 32px 32px;
+  position: absolute;
+  background-color: var(--gray-300);
+  border-radius: 25px;
 }
