@@ -1,10 +1,9 @@
 .cao {
   position: relative;
   width: 1760px;
-  height: 8000px;
+  height: 9000px;
   background-color: #ffffff;
   overflow: hidden;
-  margin: 0 auto;
 }
 
 .cao .overlap {
@@ -84,7 +83,7 @@
   width: 721px;
   height: 1000px;
   top: 2000px;
-  left: 1039px; 
+  left: 1039px;
 }
 
 .cao .rectangle {
@@ -668,7 +667,7 @@
 
 .cao .text-wrapper-10 {
   position: relative;
-  width: fit-content; 
+  width: fit-content;
   margin-top: -1px;
   font-family: var(--h3-500-font-family);
   font-weight: var(--h3-500-font-weight);
@@ -698,7 +697,7 @@
   width: 1930px;
   height: 1000px;
   top: 5000px;
-  left: -106px; 
+  left: -106px;
 }
 
 .cao .frame-8 {
@@ -791,16 +790,16 @@
 
 .cao .dzieci-z-domu {
   position: absolute;
-  width: 547px;
-  top: 643px;
+  width: 835px;
+  top: 597px;
   left: 280px;
-  font-family: var(--body1-600-font-family);
-  font-weight: var(--body1-600-font-weight);
+  font-family: var(--body3-600-font-family);
+  font-weight: var(--body3-600-font-weight);
   color: #303030;
-  font-size: var(--body1-600-font-size);
-  letter-spacing: var(--body1-600-letter-spacing);
-  line-height: var(--body1-600-line-height);
-  font-style: var(--body1-600-font-style);
+  font-size: var(--body3-600-font-size);
+  letter-spacing: var(--body3-600-letter-spacing);
+  line-height: var(--body3-600-line-height);
+  font-style: var(--body3-600-font-style);
 }
 
 .cao .do-cz-do-nas {
@@ -840,7 +839,7 @@
 .cao .div-wrapper {
   position: absolute;
   width: 1760px;
-  height: 398px;
+  height: 420px;
   top: 3000px;
   left: 0;
   background-color: var(--gray-400);
@@ -850,7 +849,7 @@
   display: inline-flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 20px;
+  gap: 12px;
   position: relative;
   top: 110px;
   left: 174px;
@@ -883,7 +882,7 @@
   display: flex;
   flex-direction: column;
   width: 159px;
-  height: 88px;
+  height: 70px;
   align-items: center;
   justify-content: center;
   gap: 10px;
@@ -897,7 +896,9 @@
   position: relative;
   width: 68.27px;
   height: 64px;
-  background-image: url(./img/logo-1.png);
+  margin-top: -9px;
+  margin-bottom: -9px;
+  background-image: url(./img/logo-1-1.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -907,6 +908,8 @@
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -916,6 +919,8 @@
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -925,6 +930,8 @@
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -934,6 +941,8 @@
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -943,6 +952,8 @@
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -952,6 +963,8 @@
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -961,78 +974,118 @@
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
 
 .cao .hotel-logos-9 {
-  background-image: url(./img/logo-9-1.png);
+  background-image: url(./img/logo-10-1.png);
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
 
 .cao .hotel-logos-10 {
-  background-image: url(./img/logo-10-1.png);
+  background-image: url(./img/logo-11-1.png);
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
 
 .cao .hotel-logos-11 {
-  background-image: url(./img/logo-11-1.png);
+  background-image: url(./img/logo-12-1.png);
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
 
 .cao .hotel-logos-12 {
-  background-image: url(./img/logo-12-1.png);
+  background-image: url(./img/logo-13-1.png);
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
 
 .cao .hotel-logos-13 {
-  background-image: url(./img/logo-13-1.png);
+  background-image: url(./img/logo-14-1.png);
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
 
 .cao .hotel-logos-14 {
-  background-image: url(./img/logo-14-1.png);
+  background-image: url(./img/logo-5-3.png);
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
 
 .cao .hotel-logos-15 {
-  background-image: url(./img/logo-5-3.png);
+  background-image: url(./img/logo-16-4.png);
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
 
 .cao .hotel-logos-16 {
-  background-image: url(./img/logo-16-1.png);
+  background-image: url(./img/logo-16-5.png);
   position: relative;
   width: 68.27px;
   height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.cao .hotel-logos-17 {
+  background-image: url(./img/logo-16-6.png);
+  position: relative;
+  width: 68.27px;
+  height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.cao .hotel-logos-18 {
+  background-image: url(./img/logo-16-7.png);
+  position: relative;
+  width: 68.27px;
+  height: 64px;
+  margin-top: -9px;
+  margin-bottom: -9px;
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -1040,15 +1093,15 @@
 .cao .rectangle-4 {
   position: absolute;
   width: 577px;
-  height: 602px;
-  top: 3398px;
+  height: 580px;
+  top: 3420px;
   left: 1183px;
 }
 
 .cao .op-ata-recyklingowa {
   position: absolute;
   width: 691px;
-  top: 3437px;
+  top: 3459px;
   left: 174px;
   font-family: var(--h3-700-font-family);
   font-weight: var(--h3-700-font-weight);
@@ -1226,7 +1279,7 @@
 .cao .text-wrapper-20 {
   position: absolute;
   width: 691px;
-  top: 3685px;
+  top: 3715px;
   left: 174px;
   font-family: var(--h5-600-font-family);
   font-weight: var(--h5-600-font-weight);
@@ -1239,22 +1292,22 @@
 
 .cao .redukcja-odpad-w {
   position: absolute;
-  width: 691px;
-  top: 3733px;
+  width: 835px;
+  top: 3763px;
   left: 174px;
-  font-family: var(--body3-500-font-family);
-  font-weight: var(--body3-500-font-weight);
+  font-family: var(--body2-500-font-family);
+  font-weight: var(--body2-500-font-weight);
   color: var(--gray-800);
-  font-size: var(--body3-500-font-size);
-  letter-spacing: var(--body3-500-letter-spacing);
-  line-height: var(--body3-500-line-height);
-  font-style: var(--body3-500-font-style);
+  font-size: var(--body2-500-font-size);
+  letter-spacing: var(--body2-500-letter-spacing);
+  line-height: var(--body2-500-line-height);
+  font-style: var(--body2-500-font-style);
 }
 
 .cao .wprowadzaja-c {
   position: absolute;
-  width: 691px;
-  top: 3537px;
+  width: 835px;
+  top: 3559px;
   left: 174px;
   font-family: var(--body3-500-font-family);
   font-weight: var(--body3-500-font-weight);
@@ -1269,37 +1322,38 @@
   width: 547px;
   top: 4397px;
   left: 174px;
-  font-weight: 400;
+  font-weight: var(--body1-500-font-weight);
   color: transparent;
-  font-size: 24px;
-  line-height: 32px;
+  font-size: var(--body1-500-font-size);
+  line-height: var(--body1-500-line-height);
   position: absolute;
-  font-family: "Archivo", Helvetica;
-  letter-spacing: 0;
+  font-family: var(--body1-500-font-family);
+  letter-spacing: var(--body1-500-letter-spacing);
+  font-style: var(--body1-500-font-style);
 }
 
 .cao .text-wrapper-21 {
-  font-weight: 500;
-  color: #5a5a5a;
-}
-
-.cao .text-wrapper-22 {
-  font-weight: var(--h4-600-font-weight);
   color: #303030;
-  font-family: var(--h4-600-font-family);
-  font-style: var(--h4-600-font-style);
-  letter-spacing: var(--h4-600-letter-spacing);
-  line-height: var(--h4-600-line-height);
-  font-size: var(--h4-600-font-size);
+  font-family: var(--body1-500-font-family);
+  font-style: var(--body1-500-font-style);
+  font-weight: var(--body1-500-font-weight);
+  letter-spacing: var(--body1-500-letter-spacing);
+  line-height: var(--body1-500-line-height);
+  font-size: var(--body1-500-font-size);
 }
 
-.cao .rectangle-8 {
+.cao .resoap-project {
   position: absolute;
-  width: 577px;
-  height: 292px;
-  top: 4598px;
-  left: 159px;
-  object-fit: cover;
+  width: 547px;
+  top: 4533px;
+  left: 174px;
+  font-family: var(--body1-700-font-family);
+  font-weight: var(--body1-700-font-weight);
+  color: #303030;
+  font-size: var(--body1-700-font-size);
+  letter-spacing: var(--body1-700-letter-spacing);
+  line-height: var(--body1-700-line-height);
+  font-style: var(--body1-700-font-style);
 }
 
 .cao .je-li-reprezentujesz {
@@ -1316,7 +1370,7 @@
   font-style: var(--body2-500-font-style);
 }
 
-.cao .text-wrapper-23 {
+.cao .text-wrapper-22 {
   position: absolute;
   width: 403px;
   top: 7811px;
@@ -1361,7 +1415,7 @@
   left: 751px;
 }
 
-.cao .rectangle-9 {
+.cao .rectangle-8 {
   position: absolute;
   width: 721px;
   height: 1000px;
@@ -1409,7 +1463,7 @@
   flex: 0 0 auto;
 }
 
-.cao .text-wrapper-24 {
+.cao .text-wrapper-23 {
   position: relative;
   width: fit-content;
   margin-top: -1px;
@@ -1423,7 +1477,7 @@
   font-style: var(--h2-700-font-style);
 }
 
-.cao .text-wrapper-25 {
+.cao .text-wrapper-24 {
   position: relative;
   width: fit-content;
   font-family: "Archivo", Helvetica;
@@ -1458,7 +1512,7 @@
   height: 40px;
 }
 
-.cao .text-wrapper-26 {
+.cao .text-wrapper-25 {
   position: relative;
   width: fit-content;
   font-family: var(--h4-500-font-family);
@@ -1479,312 +1533,93 @@
   left: 174px;
 }
 
-
-
-.burger-menu-trigger {
-  display: inline-flex;
-  align-items: flex-start;
-  gap: 10px;
-  padding: 16px;
-  position: fixed;
-  background-color: #fff;
-  border-radius: 15px;
-  border: 1px solid;
-  border-color: #000;
-  z-index: 2;
-  top:15px;
-  right: 30px;
-   cursor: pointer;
-}
-
-.burger-menu-trigger .menu {
-  position: relative;
-  width: 48px;
-  height: 48px;
-  background-image: url(./img/menu-2-2.svg);
-  background-size: 100% 100%;
-}
-
-
-
-.slider-wrapper{
-  width: 100%;
-  height: 300px;
-  background: red;
+.cao .rectangle-9 {
   position: absolute;
+  width: 433px;
+  height: 222px;
+  top: 4668px;
+  left: 159px;
+  object-fit: cover;
 }
 
-
-.hs-section-logo{
-  background: #fff;
-  padding: 25px 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.hs-section{
-  width: 1760px;
-  margin: 0 auto;
-}
-
-element {
-  background-color: #f3f3f3;
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: center;
-  width: 100%;
-}
-
-.element .div {
-  width: 1760px;
-  height: 1080px;
-  position: relative;
-
-}
-
-.element .overlap-group {
+.cao .overlap-11 {
   position: absolute;
-  width: 813px;
-  height: 1080px;
+  width: 1009px;
+  height: 1000px;
+  top: 8000px;
+  left: 751px;
+}
+
+.cao .rectangle-10 {
+  position: absolute;
+  width: 721px;
+  height: 1000px;
   top: 0;
-  left: 0px;
+  left: 288px;
 }
 
-.element .rectangle {
-  position: absolute;
-  width: 677px;
-  height: 1080px;
-  top: 0;
-  left: 136px;
-}
-
-.element .korzy {
-  top: 480px;
-  left: 0;
-  display: flex;
-  width: 382px;
-  height: 160px;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 80px 32px 32px;
-  position: absolute;
-  border-radius: 25px;
-}
-
-.element .body-text {
+.cao .ellipse-11 {
   position: relative;
-  flex: 1;
-  font-family: var(--h5-500-font-family);
-  font-weight: var(--h5-500-font-weight);
-  color: var(--gray-900);
-  font-size: var(--h5-500-font-size);
-  letter-spacing: var(--h5-500-letter-spacing);
-  line-height: var(--h5-500-line-height);
-  font-style: var(--h5-500-font-style);
+  width: 120px;
+  height: 120px;
 }
 
-.element .frame {
+.cao .frame-21 {
   display: inline-flex;
+  flex-direction: column;
   align-items: flex-start;
-  gap: 10px;
-  padding: 24px;
+  gap: 40px;
   position: absolute;
-  top: -80px;
-  left: 0;
-  background-color: var(--gray-100);
-  border-radius: 25px;
-  box-shadow: var(--02);
+  top: 8110px;
+  left: 174px;
 }
 
-.element .img {
+.cao .text-wrapper-26 {
   position: relative;
-  width: 80px;
-  height: 80px;
-}
-
-.element .korzy-2 {
-  top: 840px;
-  left: 0;
-  display: flex;
-  width: 382px;
-  height: 160px;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 80px 32px 32px;
-  position: absolute;
-  background-color: var(--gray-300);
-  border-radius: 25px;
-}
-
-.element .text-wrapper {
-  position: relative;
-  flex: 1;
+  width: fit-content;
   margin-top: -1px;
-  font-family: var(--h5-500-font-family);
-  font-weight: var(--h5-500-font-weight);
-  color: var(--gray-900);
-  font-size: var(--h5-500-font-size);
-  letter-spacing: var(--h5-500-letter-spacing);
-  line-height: var(--h5-500-line-height);
-  font-style: var(--h5-500-font-style);
+  font-family: var(--h3-600-font-family);
+  font-weight: var(--h3-600-font-weight);
+  color: #303030;
+  font-size: var(--h3-600-font-size);
+  letter-spacing: var(--h3-600-letter-spacing);
+  line-height: var(--h3-600-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-600-font-style);
 }
 
-.element .img-wrapper {
-  display: inline-flex;
-  align-items: flex-start;
+.cao .logo-6 {
+  position: relative;
+  width: 226px;
+  height: 84px;
+}
+
+.cao .frame-22 {
+  display: flex;
+  flex-direction: column;
+  width: 258px;
+  height: 258px;
+  align-items: center;
+  justify-content: center;
   gap: 10px;
-  padding: 24px;
   position: absolute;
-  top: -80px;
-  left: 0;
-  background-color: var(--beige-500);
+  top: 8346px;
+  left: 174px;
+  background-color: var(--gray-100);
   border-radius: 25px;
   box-shadow: var(--03);
 }
 
-.element .side-paggination {
-  display: flex;
-  flex-direction: column;
-  width: 160px;
-  height: 1080px;
-  align-items: center;
-  justify-content: space-between;
-  padding: 80px 0px;
+.cao .text-wrapper-27 {
   position: absolute;
-  top: 0;
-  left: 0;
-  background-color: var(--gray-100);
-}
-
-.element .logo {
-  position: relative;
-  width: 48px;
-  height: 64px;
-}
-
-.element .XX-wrapper {
-  display: flex;
-  flex-direction: column;
-  width: 80px;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 24px 0px;
-  position: relative;
-  flex: 0 0 auto;
-  background-color: var(--gray-1100);
-  border-radius: 20px;
-}
-
-.element .XX {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--h4-500-font-family);
-  font-weight: var(--h4-500-font-weight);
-  color: var(--gray-100);
-  font-size: var(--h4-500-font-size);
-  letter-spacing: var(--h4-500-letter-spacing);
-  line-height: var(--h4-500-line-height);
-  white-space: nowrap;
-  font-style: var(--h4-500-font-style);
-}
-
-.element .page-title {
-  display: flex;
-  flex-direction: column;
-  width: 518px;
-  align-items: flex-start;
-  gap: 12px;
-  position: absolute;
-  top: 80px;
-  left: 295px;
-}
-
-.element .h {
-  position: relative;
-  align-self: stretch;
-  margin-top: -1px;
-  font-family: var(--h2-300-font-family);
-  font-weight: var(--h2-300-font-weight);
-  color: var(--gray-1100);
-  font-size: var(--h2-300-font-size);
-  letter-spacing: var(--h2-300-letter-spacing);
-  line-height: var(--h2-300-line-height);
-  font-style: var(--h2-300-font-style);
-}
-
-.element .h-2 {
-  position: relative;
-  align-self: stretch;
-  font-family: var(--h1-500-font-family);
-  font-weight: var(--h1-500-font-weight);
-  color: var(--dark-green700);
-  font-size: var(--h1-500-font-size);
-  letter-spacing: var(--h1-500-letter-spacing);
-  line-height: var(--h1-500-line-height);
-  font-style: var(--h1-500-font-style);
-}
-
-.element .korzy-3 {
-  top: 480px;
-  left: 295px;
-  display: flex;
-  width: 382px;
-  height: 160px;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 80px 32px 32px;
-  position: absolute;
-  background-color: var(--gray-300);
-  border-radius: 25px;
-}
-
-.element .korzy-4 {
-  top: 840px;
-  left: 295px;
-  display: flex;
-  width: 382px;
-  height: 160px;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 80px 32px 32px;
-  position: absolute;
-  background-color: var(--gray-300);
-  border-radius: 25px;
-}
-
-.element .korzy-5 {
-  top: 480px;
-  left: 701px;
-  display: flex;
-  width: 382px;
-  height: 160px;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 80px 32px 32px;
-  position: absolute;
-  background-color: var(--gray-300);
-  border-radius: 25px;
-}
-
-.element .korzy-6 {
-  top: 840px;
-  left: 701px;
-  display: flex;
-  width: 382px;
-  height: 160px;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 80px 32px 32px;
-  position: absolute;
-  background-color: var(--gray-300);
-  border-radius: 25px;
+  width: 403px;
+  top: 8675px;
+  left: 174px;
+  font-family: var(--body2-500-font-family);
+  font-weight: var(--body2-500-font-weight);
+  color: #5a5a5a;
+  font-size: var(--body2-500-font-size);
+  letter-spacing: var(--body2-500-letter-spacing);
+  line-height: var(--body2-500-line-height);
+  font-style: var(--body2-500-font-style);
 }
