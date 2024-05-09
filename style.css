@@ -7,6 +7,11 @@
   overflow: hidden;
 }
 
+.cao-wrap{
+  width: 1765px;
+  margin: 0 auto;
+}
+
 .cao .overlap {
   position: absolute;
   width: 1760px;
